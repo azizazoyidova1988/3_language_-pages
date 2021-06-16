@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-16 19:05+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\home\views.py:27
+msgid "WELCOME_TEXT"
+msgstr "Hello Django"
+
+#: .\home\views.py:28
+#, fuzzy
+#| msgid "SERVICE_TEXT_1"
+msgid " SERVICE_TEXT_1"
+msgstr "Fully Responsive"
+
+#: .\home\views.py:29
+#, fuzzy
+#| msgid "SERVICE_TEXT_2"
+msgid " SERVICE_TEXT_2"
+msgstr " Start Bootstrap"
+
+#: .\home\views.py:30
+#, fuzzy
+#| msgid "SERVICE_TEXT_3"
+msgid " SERVICE_TEXT_3"
+msgstr "Easy to Use"
+
+#: .\mysite\settings.py:109
+msgid "English"
+msgstr ""
+
+#: .\mysite\settings.py:110
+msgid "Uzbek"
+msgstr ""
+
+#: .\mysite\settings.py:111
+msgid "Russian"
+msgstr ""
+
+#: .\templates\index.html:67
+msgid "SERVICE_TEXT_1"
+msgstr "Fully Responsive"
+
+#: .\templates\index.html:68
+msgid "DESC_TEXT_1"
+msgstr "This theme will look great on any device, no matter the size!"
+
+#: .\templates\index.html:74
+msgid "SERVICE_TEXT_2"
+msgstr " Start Bootstrap"
+
+#: .\templates\index.html:75
+msgid "DESC_TEXT_2"
+msgstr "Featuring the latest build of the new Bootstrap 4 framework!"
+
+#: .\templates\index.html:81
+msgid "SERVICE_TEXT_3"
+msgstr "Easy to Use"
+
+#: .\templates\index.html:82
+msgid "DESC_TEXT_3"
+msgstr "Ready to use with your own content, or customize the source files!"
+
+#~ msgid "TITLE_TEXT_1"
+#~ msgstr "Easy to Use & Customize"
+
+#~ msgid "TITLE_TEXT_2"
+#~ msgstr "Updated For Bootstrap 4"
+
+#~ msgid "TITLE_TEXT_3"
+#~ msgstr "Fully Responsive Design"
+
+
+#: .\templates\index.html:75
+msgid "EMAIL"
+msgstr "Enter your email..."
+
+#: .\templates\index.html:81
+msgid "SING_UP"
+msgstr "Sign up!"
+
+#: .\templates\index.html:82
+msgid "SING_UP_2"
+msgstr "Ready to get started? Sign up now!"
+
+#: .\templates\index.html:82
+msgid "TITLE"
+msgstr "What people are saying..."

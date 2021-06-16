@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-16 19:05+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\home\views.py:27
+msgid "WELCOME_TEXT"
+msgstr "Salom Django"
+
+#: .\home\views.py:28
+#, fuzzy
+#| msgid "SERVICE_TEXT_1"
+msgid " SERVICE_TEXT_1"
+msgstr "Toliq responsive"
+
+#: .\home\views.py:29
+#, fuzzy
+#| msgid "SERVICE_TEXT_2"
+msgid " SERVICE_TEXT_2"
+msgstr "Bootstrapni boshlash"
+
+#: .\home\views.py:30
+#, fuzzy
+#| msgid "SERVICE_TEXT_3"
+msgid " SERVICE_TEXT_3"
+msgstr "Foydalanish oson"
+
+#: .\mysite\settings.py:109
+msgid "English"
+msgstr ""
+
+#: .\mysite\settings.py:110
+msgid "Uzbek"
+msgstr ""
+
+#: .\mysite\settings.py:111
+msgid "Russian"
+msgstr ""
+
+#: .\templates\index.html:67
+msgid "SERVICE_TEXT_1"
+msgstr "Toliq responsive"
+
+#: .\templates\index.html:68
+msgid "DESC_TEXT_1"
+msgstr ""
+"Ushbu mavzu har qanday qurilmada, o'lchamidan qat'i nazar, ajoyib ko'rinadi!"
+
+#: .\templates\index.html:74
+msgid "SERVICE_TEXT_2"
+msgstr "Bootstrapni boshlash"
+
+#: .\templates\index.html:75
+msgid "DESC_TEXT_2"
+msgstr "Bootstrap 4 yangi ramkasining so'nggi versiyasini taqdim etadi!"
+
+#: .\templates\index.html:81
+msgid "SERVICE_TEXT_3"
+msgstr "Foydalanish oson"
+
+#: .\templates\index.html:82
+msgid "DESC_TEXT_3"
+msgstr ""
+"O'zingizning kontentingiz bilan foydalanishga yoki manba fayllarini "
+"sozlashga tayyormiz!"
+
+#~ msgid "TITLE_TEXT_1"
+#~ msgstr "Foydalanish oson & Sozlash"
+
+#~ msgid "TITLE_TEXT_2"
+#~ msgstr "Bootstrap 4 uchun yangilangan"
+
+#~ msgid "TITLE_TEXT_3"
+#~ msgstr "To'liq javob beradigan dizayn"
+
+#: .\templates\index.html:75
+msgid "EMAIL"
+msgstr "Elektron pochtangizni kiriting ..."
+
+#: .\templates\index.html:81
+msgid "SING_UP"
+msgstr "Ro'yxatdan o'tish"
+
+#: .\templates\index.html:82
+msgid "SING_UP_2"
+msgstr "Boshlashga tayyormisiz? Ro'yxatdan o'ting!"
+
+#: .\templates\index.html:82
+msgid "TITLE"
+msgstr "Odamlar nima deyishadi ..."
